@@ -33,9 +33,9 @@ Here are some ideas to get you started:
   <span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=mariaDB&logoColor=white"></span>
   <span></span>
-  <span></span>
+  <span></span>          
   <b>- Ohters : </b>
-  <span><img src="https://img.shields.io/badge/amazon aws-#232F3E?style=flat-square&logo=amazon aws&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/amazon-aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"></span>
   <span></span>
   <span></span>
 </p>
