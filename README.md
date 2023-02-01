@@ -39,8 +39,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">😀 Contact Me 😀</h3>
 <p align="left">
-  <span><a href="mailto:serajang1679@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a></span>
-  <span><a href="https://kangmo.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></a></span>
+  <span><a href="mailto:serajang1679@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=22rkdmin@gmail.com"/>
+  </a></span>
+  <span><a href="https://kangmo.tistory.com/" target='_blank'>
+    <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white">
+  </a></span>
 </p>
 
 <h3 align="left">🌱 My Github 🌱 </h3>
