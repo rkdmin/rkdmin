@@ -32,15 +32,12 @@ Here are some ideas to get you started:
   <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"></span>
-  <span></span>
-  <span></span>                    
+  <br/>             
   <b>- Ohters : </b>            
-  <span><img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></span>
-  <span></span>
-  <span></span>
+  <span><img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></span>    
 </p>
 
-<h3 align="left">🧸 Contact Me 🧸</h3>
+<h3 align="left">😀 Contact Me 😀</h3>
 <p align="left">
   <span><a href="mailto:serajang1679@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a></span>
   <span><a href="https://velog.io/@serajang99" target='_blank'><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@serajang99"/></a></span>
