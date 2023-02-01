@@ -31,11 +31,11 @@ Here are some ideas to get you started:
   <b>- Database : </b>
   <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"></span>
-  <span><img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=mariaDB&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"></span>
   <span></span>
-  <span></span>          
-  <b>- Ohters : </b>
-  <span><img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></span>
+  <span></span>                    
+  <b>- Ohters : </b>            
+  <span><img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></span>
   <span></span>
   <span></span>
 </p>
