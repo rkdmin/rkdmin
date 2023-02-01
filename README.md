@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <span></span>
   <span></span>          
   <b>- Ohters : </b>
-  <span><img src="https://img.shields.io/badge/amazon-aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></span>
   <span></span>
   <span></span>
 </p>
