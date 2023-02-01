@@ -3,6 +3,7 @@
 👊 &nbsp;**팀원들과의 커뮤니케이션**에 자신이 있습니다.\
 👊 &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.\
 👊 &nbsp;저에 대해 궁금하시다면 [노션 이력서](https://subsequent-bubble-4b6.notion.site/1d0fe0a0279540d5afed63240576efa9)를 방문해주세요.
+[노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)
 <br/>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
