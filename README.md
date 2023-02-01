@@ -10,9 +10,9 @@
 
 ## 😀 &nbsp;백엔드 개발자 이강민입니다. 😀
 
-✔️ &nbsp;**일상생활에 도움을 줄 수 있는 서비스**에 관심이 많습니다.\
-✔️ &nbsp;**팀원들과의 커뮤니케이션**에 자신이 있습니다.\
-✔️ &nbsp;저에 대해 궁금하시다면 [노션 이력서]([https://subsequent-bubble-4b6.notion.site/1d0fe0a0279540d5afed63240576efa9](https://subsequent-bubble-4b6.notion.site/1d0fe0a0279540d5afed63240576efa9))를 방문해주세요.
+👊 &nbsp;**일상생활에 도움을 줄 수 있는 서비스**에 관심이 많습니다.\
+👊 &nbsp;**팀원들과의 커뮤니케이션**에 자신이 있습니다.\
+👊 &nbsp;저에 대해 궁금하시다면 [노션 이력서](https://subsequent-bubble-4b6.notion.site/1d0fe0a0279540d5afed63240576efa9)를 방문해주세요.
 
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
