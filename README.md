@@ -6,6 +6,7 @@
 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)
 <br/>
 
+✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://profile.jeongkoo.com/) 또는 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)를 방문해주세요.
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <p align="left">
   <b>- Front-end : </b>
