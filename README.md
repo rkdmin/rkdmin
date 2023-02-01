@@ -34,6 +34,10 @@ Here are some ideas to get you started:
   <span><img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=mariaDB&logoColor=white"></span>
   <span></span>
   <span></span>
+  <b>- Ohters : </b>
+  <span><img src="https://img.shields.io/badge/amazonaws-#232F3E?style=flat-square&logo=amazonaws&logoColor=white"></span>
+  <span></span>
+  <span></span>
 </p>
 
 <h3 align="left">🧸 Contact Me 🧸</h3>
